@@ -6,8 +6,11 @@
 ## Quem vai usar o sistema?
 Os principais usuários do sistema serão:
 
+Ator primário: Pesquisador/Empreendedor
 * Startups: Empresas emergentes que buscam apoio e orientação para lidar com os aspectos burocráticos relacionados ao desenvolvimento de seus negócios.
 * Instituições de Ciência e Tecnologia (ICTs): Tanto públicas quanto privadas, que necessitam de acesso a informações e recursos para lidar com questões legais e administrativas relacionadas à pesquisa e inovação.
+
+Ator secundário:
 * Instituto Nacional da Propriedade Industrial (INPI): Órgão responsável pela concessão e fiscalização de patentes e marcas no Brasil, que pode utilizar o sistema como fonte de consulta e apoio em suas atividades.
 
 ## Quais os serviços essenciais?
