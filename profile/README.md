@@ -46,6 +46,6 @@ Os serviços essenciais oferecidos pelo sistema incluem:
 
 ## Links
 
-* **[Arquitetura do projeto](https://github.com/Projeto-Engenharia-de-Software-LC/arquitetura-do-projeto/blob/main/Documentacao_Microarquitetura_e_Macroarquitetura.pdf) - Arquitetura:** Micro e Macroarquitetura do sistema.
-* **[KANBAN](https://github.com/orgs/Projeto-Engenharia-de-Software-LC/projects/2) - Kanban:** Planejamento de sprints.
-* **[Repositório do sistema](https://github.com/Projeto-Engenharia-de-Software-LC/gerenciador_financeiro_pessoal) - Sistema:** Gerenciador Financeiro Pessoal
+* **[Arquitetura do projeto]() - Arquitetura:** Micro e Macroarquitetura do sistema.
+* **[KANBAN]() - Kanban:** Planejamento de sprints.
+* **[Repositório do sistema]() - Sistema:** Gerenciador Financeiro Pessoal
